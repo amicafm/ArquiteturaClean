@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: produtos
+Implementation-Version: 2.1.4.RELEASE
+Built-By: Carambola_65
+Implementation-Vendor-Id: com.crud
+Build-Jdk: 1.8.0_211
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/produtos
+Created-By: Maven Integration for Eclipse
+
